@@ -6,6 +6,8 @@ langchain-chroma
 langchain-huggingface
 langchain-ollama
 langchain-text-splitters
+docx2txt
+pdf2txt
 
 chromadb
 
