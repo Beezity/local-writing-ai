@@ -1,6 +1,6 @@
 # BeeAI
 
-Why BeeAI? 'Cuz I'm Beezity
+Why BeeAI? idk
 
 A local retrieval-augmented AI assistant powered by Ollama and custom document indexing. Mainly intended for writing with specific parameters.
 
