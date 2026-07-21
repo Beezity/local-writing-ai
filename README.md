@@ -1,8 +1,10 @@
-# Local AI for Aquinian
+# Local AI
 
 A local retrieval-augmented AI assistant powered by Ollama and custom document indexing.
 
 Fully offline once set up properly with model and knowledge.
+
+(liam here, i will likely use this and if i do, then the prompt and response will be documented)
 
 ---
 
