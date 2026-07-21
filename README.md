@@ -24,8 +24,8 @@ Before getting started, ensure you have the following installed:
 Open your terminal or command prompt, clone the repository, and navigate into the project directory:
 
 ```bash
-git clone https://github.com/Beezity/local-ai-aquinian.git
-cd local-ai-aquinian
+git clone https://github.com/Beezity/local-writing-ai.git
+cd local-writing-ai
 ```
 
 ### 2. Set Up a Virtual Environment
